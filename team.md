@@ -4,7 +4,9 @@
 
 #### TODO - MILESTONES
 
-- [ ] todo
+- [ ] run my nodes
+- [ ] new node
+- [ ] branding
 
 #### TODO - BACKLOG
 
